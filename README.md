@@ -79,3 +79,9 @@ I will try to add sign languages and add more languages.
 You can try the app [here](https://expo.io/@sayak119/express)
 
 **The images were taken from [Flaticon](https://www.flaticon.com/)**
+
+<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+
+
+
+
