@@ -26,7 +26,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/sandipgarje77/intro-to-heroku",
+  "repository": "https://github.com/sandipgarje77/Express",
   "addons": [
     "heroku-postgresql"
   ]
