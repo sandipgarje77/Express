@@ -20,3 +20,14 @@
     }
   }
 }
+{
+  "name": "express-web-app",
+  "description": "Express Web App",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/sandipgarje77/intro-to-heroku",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
